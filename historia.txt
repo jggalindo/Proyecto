@@ -1,3 +1,5 @@
 esta es la prueba para git
 
-José tiene 25 años y nacio en guayaquil ecuador.
+José tiene 26 años y nacio en guayaquil ecuador y vive en Metropolis 2
+
+Trabaja en Promesa
