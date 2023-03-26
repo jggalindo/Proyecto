@@ -1,9 +1,5 @@
 esta es la prueba para git
 
-José tiene 26 años y nacio en guayaquil ecuador y vive en Metropolis 2
+José tiene 25 años y nacio en guayaquil ecuador.
 
-Vive todos los dias
-
-Trabaja en Promesa
-
-Esta terminando sus estudios de Sistemas
+Hoy es el cumpleaños de Gustavo Galindo
