@@ -2,4 +2,6 @@ esta es la prueba para git
 
 José tiene 26 años y nacio en guayaquil ecuador y vive en Metropolis 2
 
+Vive todos los dias
+
 Trabaja en Promesa
